@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://loja-teste-kohl.vercel.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://house-games.vercel.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
@@ -18,8 +18,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
-- Typescript
-- Tailwind
+- Redux
 <br>
 
 ## 💻 Instalação
@@ -28,7 +27,8 @@ Para iniciar o **Projeto** utilize os comandos:
 
 ```bash
 npm install
-npm run dev
+npm run start
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:3000/`.
+
